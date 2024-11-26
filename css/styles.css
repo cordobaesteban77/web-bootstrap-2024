@@ -14,7 +14,7 @@ header {
     font-weight: bold;
 }
 
-.active {
+nav .active {
     font-weight: bold;
     color: brown !important;
 }
