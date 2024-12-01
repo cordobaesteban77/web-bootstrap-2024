@@ -76,6 +76,13 @@ nav .active {
     right: 10px;
 }
 
+#nuevo .card {
+    & img {
+        height: 150px;
+        object-fit: cover;
+    }
+}
+
 @media(min-width:768px) {
     #carousel-destacados .card {
         & img {
